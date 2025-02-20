@@ -1,0 +1,9 @@
+7zip.7zip
+Microsoft.AzureCLI
+Samsung.SmartSwitch
+Python.Launcher
+Microsoft.PowerBI
+Zoom.Zoom.EXE
+Microsoft.AzureDataStudio
+Microsoft.VisualStudioCode
+Microsoft.PowerShell
